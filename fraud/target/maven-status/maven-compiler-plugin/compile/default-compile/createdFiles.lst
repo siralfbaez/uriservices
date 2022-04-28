@@ -1,0 +1,6 @@
+com/urimagination/fraud/FraudCheckHistory.class
+com/urimagination/fraud/FraudCheckService.class
+com/urimagination/fraud/FraudCheckHistory$FraudCheckHistoryBuilder.class
+com/urimagination/fraud/FraudCheckHistoryRepository.class
+com/urimagination/fraud/FraudApplication.class
+com/urimagination/fraud/FraudController.class

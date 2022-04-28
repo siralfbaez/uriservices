@@ -1,0 +1,8 @@
+com/urimagination/customer/CustomerController.class
+com/urimagination/customer/CustomerConfig.class
+com/urimagination/customer/Customer$CustomerBuilder.class
+com/urimagination/customer/CustomerRegistrationRequest.class
+com/urimagination/customer/Customer.class
+com/urimagination/customer/CustomerApplication.class
+com/urimagination/customer/CustomerService.class
+com/urimagination/customer/CustomerRepository.class

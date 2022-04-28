@@ -1,0 +1,8 @@
+com/urimagination/notification/NotificationService.class
+com/urimagination/notification/Notification.class
+com/urimagination/notification/rabbitmq/NotificationConsumer.class
+com/urimagination/notification/NotificationRepository.class
+com/urimagination/notification/Notification$NotificationBuilder.class
+com/urimagination/notification/NotificationConfig.class
+com/urimagination/notification/NotificationController.class
+com/urimagination/notification/NotificationApplication.class

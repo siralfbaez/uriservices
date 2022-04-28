@@ -1,0 +1,4 @@
+com/urimagination/clients/notification/NotificationClient.class
+com/urimagination/clients/notification/NotificationRequest.class
+com/urimagination/clients/fraud/FraudClient.class
+com/urimagination/clients/fraud/FraudCheckResponse.class
